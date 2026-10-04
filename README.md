@@ -62,7 +62,8 @@ EmbrWatch operates through a system of flight control hardware, video transmissi
 | **Goggles** | DJI Goggles N3 | $229 | [B&H Link](https://www.bhphotovideo.com/c/product/1975693-REG/dji_cp_rc_00000033_01_goggles_n3_us.html) |
 | **Controller** | RadioMaster Pocket Controller | $65 |[Controller](https://www.readymaderc.com/products/details/85661-radiomaster-pocket-radio-controller-cc2500-charcoal-mode-2?srsltid=AU7gw4USLQyOo8XBBE7m-DKFo7Qm6yYV1ku5AA3ZPsoc1xarqMz3-uBAnc4) |
 | **6S Battery** | 6S 5000mAh 120C LiPo | $106 | [Amazon Link](https://www.amazon.com/gp/product/B0DNLW4W8H/ref=ox_sc_act_title_9?smid=A1KODDOPEPALCP&psc=1) |
-| **Total** | | **$885** | |
+| **Charger** | 18650 Battery Charger | $7 | [Amazon Link](https://www.amazon.com/gp/product/B09Y5TZVGW/ref=ox_sc_act_title_1?smid=A2MM6G0Z2YRIL5&psc=1) |
+| **Total** | | **$892** | |
 
 <img width="3428" height="1365" alt="Drone" src="https://github.com/user-attachments/assets/409dc1e4-f51d-4480-b8c2-16c4fbcc2fb4" />
 <img width="605" height="507" alt="image" src="https://github.com/user-attachments/assets/889ce9f6-b20d-454f-a215-d8860cc1cca1" />
