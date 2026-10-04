@@ -47,4 +47,6 @@ EmbrWatch combines a 7-inch long-range FPV drone with a computer vision base sta
 | **Total** | | **$885** | |
 
 <img width="3428" height="1365" alt="Drone" src="https://github.com/user-attachments/assets/409dc1e4-f51d-4480-b8c2-16c4fbcc2fb4" />
+<img width="605" height="507" alt="image" src="https://github.com/user-attachments/assets/889ce9f6-b20d-454f-a215-d8860cc1cca1" />
+
 
