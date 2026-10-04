@@ -43,3 +43,5 @@ EmbrWatch combines a 7-inch long-range FPV drone with a computer vision base sta
 | **Controller** | RadioMaster Pocket Controller | $65 | Controller |
 | **6S Battery** | 6S 5000mAh 120C LiPo | $106 | [Amazon Link](https://www.amazon.com/gp/product/B0DNLW4W8H/ref=ox_sc_act_title_9?smid=A1KODDOPEPALCP&psc=1) |
 | **Total** | | **$885** | |
+
+<img width="3428" height="1365" alt="Drone" src="https://github.com/user-attachments/assets/409dc1e4-f51d-4480-b8c2-16c4fbcc2fb4" />
