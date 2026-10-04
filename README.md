@@ -60,7 +60,7 @@ EmbrWatch operates through a system of flight control hardware, video transmissi
 | **GPS / Compass** | Navigation Module | $21 | [Amazon Link](https://www.amazon.com/gp/product/B0CB5N8RQ8/ref=ox_sc_act_title_3?smid=A399B0GHKF2YQX&psc=1) |
 | **Battery Wires** | Battery Wires | $10 | [Amazon Link](https://www.amazon.com/gp/product/B07QH249CR/ref=ox_sc_act_title_8?smid=A1JTH8JAMM4IYJ&psc=1) |
 | **Goggles** | DJI Goggles N3 | $229 | [B&H Link](https://www.bhphotovideo.com/c/product/1975693-REG/dji_cp_rc_00000033_01_goggles_n3_us.html) |
-| **Controller** | RadioMaster Pocket Controller | $65 |[B&H Link] (https://www.readymaderc.com/products/details/85661-radiomaster-pocket-radio-controller-cc2500-charcoal-mode-2?srsltid=AU7gw4USLQyOo8XBBE7m-DKFo7Qm6yYV1ku5AA3ZPsoc1xarqMz3-uBAnc4) |
+| **Controller** | RadioMaster Pocket Controller | $65 |[Controller](https://www.readymaderc.com/products/details/85661-radiomaster-pocket-radio-controller-cc2500-charcoal-mode-2?srsltid=AU7gw4USLQyOo8XBBE7m-DKFo7Qm6yYV1ku5AA3ZPsoc1xarqMz3-uBAnc4) |
 | **6S Battery** | 6S 5000mAh 120C LiPo | $106 | [Amazon Link](https://www.amazon.com/gp/product/B0DNLW4W8H/ref=ox_sc_act_title_9?smid=A1KODDOPEPALCP&psc=1) |
 | **Total** | | **$885** | |
 
