@@ -1,5 +1,5 @@
 # EmbrWatch
-
+## Please note: Editable CAD Files are found in FinalCAD.zip due to the GitHub upload limit.
 **EmbrWatch** is an autonomous long-range FPV drone with a DJI O4 air unit and YOLOv10 object detection for early detection to prevent natrual disasters.
 
 
@@ -45,3 +45,4 @@ EmbrWatch combines a 7-inch long-range FPV drone with a computer vision base sta
 | **Total** | | **$885** | |
 
 <img width="3428" height="1365" alt="Drone" src="https://github.com/user-attachments/assets/409dc1e4-f51d-4480-b8c2-16c4fbcc2fb4" />
+
