@@ -14,12 +14,12 @@ EmbrWatch combines a 7-inch long-range FPV drone with a computer vision base sta
 
 EmbrWatch operates through a system of flight control hardware, video transmission, and AI Detection:
 
-### 1. Flight Dynamics & Navigation
+### 1. Flight & Navigation
 * **Flight Controller & ESC Stack:** The **SoloGood F405 Stack** runs Betaflight to control the 7-inch drone in different weather conditions.
 * **Autonomous Navigation:** The **HGLRC M100-5883 GPS/Compass Module** will provide us with location data, allowing us to perform position hold, precise waypoint navigation, and automated Return-to-Home (RTH) in case of signal loss.
 * **Control Link:** Long-range control is possible because of the **RadioMaster Pocket Controller** sending 2.4GHz signals to the **RadioMaster RP4TD-M ELRS Receiver**, providing less than 10ms latency and a high anti interference range.
 
-### 2. Telemetry and  Video Capture
+### 2. Location and Video Capture
 * **Digital Transmission:** The **DJI O4 Air Unit Pro** captures clear 4K video perfeect for accurate image and threat detection. The low latnecy VTX, or video transmitter, allows for even more accurate usage.
 * **FPV Monitoring:** My visual feed is received using **DJI Goggles N3** for manual changes(if neddeed), spot checks, and more situational awareness.
 
