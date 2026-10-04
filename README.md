@@ -28,6 +28,7 @@ EmbrWatch combines a 7-inch long-range FPV drone with a computer vision base sta
 * Object Detection: YOLOv10 model
 * Development Environment: Python, OpenCV
 
+## BILL OF MATERIALS
 | Category | Component | Price | Link |
 | :--- | :--- | :---: | :--- |
 | **Frame** | 7-Inch FPV Frame | $38 | [Amazon Link](https://www.amazon.com/gp/product/B083DVQL6K/ref=ox_sc_act_title_1?smid=A3J255IWI9K08U&psc=1) |
