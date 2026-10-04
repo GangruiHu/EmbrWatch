@@ -1,5 +1,7 @@
 # EmbrWatch
-## Please note: Editable CAD Files are found in FinalCAD.zip due to the GitHub upload limit.
+
+## Please note: Editable CAD Files are found in FinalCAD.zip due to the GitHub upload limit, and there is currently no Firmware/Code, as hardware must be acquired first to start the programming process.
+
 **EmbrWatch** is an autonomous long-range FPV drone with a DJI O4 air unit and YOLOv10 object detection for early detection to prevent natrual disasters.
 
 
