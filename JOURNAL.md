@@ -14,3 +14,9 @@ Designed the rough CAD for drone assembly. Shopping for the best and most effici
 <img width="579" height="1066" alt="image" src="https://github.com/user-attachments/assets/5b97f5ee-12a4-4939-be1c-d69460f3420b" />
 
 **Total time spent:** 5 hours
+
+# October 11th: Add YOLOV10 python script
+
+Programmed a Python script that will take drone feed from the receiver and use an open-source Hugging Face model to detect fires.
+<img width="3357" height="1313" alt="image" src="https://github.com/user-attachments/assets/b2c4b65e-6494-404a-a6bc-f457fb5c1eaa" />
+**Total time spent:** 2 hours
