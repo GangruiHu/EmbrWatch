@@ -29,4 +29,4 @@ Mark 4 v2 7in frame, motors, ESC, etc. arrived. I spent the day building the dro
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/874d9660-ddc5-4805-b77c-7400baf91b0f" />
 <img width="1988" height="1268" alt="image" src="https://github.com/user-attachments/assets/febd92b2-d03b-4163-979b-eb15e4d19db1" />
 
-**Total time spent:** 6 hours
+**Total time spent:** 8 hours
