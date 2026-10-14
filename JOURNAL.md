@@ -20,3 +20,12 @@ Designed the rough CAD for drone assembly. Shopping for the best and most effici
 Programmed a Python script that will take drone feed from the receiver and use an open-source Hugging Face model to detect fires.
 <img width="3357" height="1313" alt="image" src="https://github.com/user-attachments/assets/b2c4b65e-6494-404a-a6bc-f457fb5c1eaa" />
 **Total time spent:** 2 hours
+
+
+# October 12th: Build Drone
+
+Mark 4 v2 7in frame, motors, ESC, etc. arrive. I spent the day building the drone, soldering, and configuring the drone in Betaflight.
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/73a782f5-ec77-4b88-815c-43fc2a9835ad" />
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/874d9660-ddc5-4805-b77c-7400baf91b0f" />
+
+**Total time spent:** 6 hours
