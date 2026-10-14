@@ -24,7 +24,7 @@ Programmed a Python script that will take drone feed from the receiver and use a
 
 # October 12th: Build Drone
 
-Mark 4 v2 7in frame, motors, ESC, etc. arrive. I spent the day building the drone, soldering, and configuring the drone in Betaflight.
+Mark 4 v2 7in frame, motors, ESC, etc. arrived. I spent the day building the drone, soldering, troubleshooting, and configuring the drone in Betaflight.
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/73a782f5-ec77-4b88-815c-43fc2a9835ad" />
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/874d9660-ddc5-4805-b77c-7400baf91b0f" />
 <img width="1988" height="1268" alt="image" src="https://github.com/user-attachments/assets/febd92b2-d03b-4163-979b-eb15e4d19db1" />
