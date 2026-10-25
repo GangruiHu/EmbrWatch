@@ -48,7 +48,7 @@ EmbrWatch operates through a system of flight control hardware, video transmissi
 * Object Detection: YOLOv10 model
 * Development Environment: Python, OpenCV
 
-## 🛠️ Project Bill of Materials (BOM)
+## Project Bill of Materials (BOM)
 
 | Category | Component | Price | Link |
 | :--- | :--- | :---: | :--- |
